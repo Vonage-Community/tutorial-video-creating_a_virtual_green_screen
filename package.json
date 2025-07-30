@@ -1,0 +1,22 @@
+{
+  "name": "virtual-green-screen-vonage-video",
+  "version": "1.0.0",
+  "description": "Overlay presenters onto shared content using background replacement and HTML5 canvas with the Vonage Video API.",
+  "scripts": {
+    "serve": "httpserver ./public -p 3000"
+  },
+  "keywords": [
+    "vonage",
+    "video-api",
+    "webrtc",
+    "greenscreen",
+    "html5",
+    "canvas",
+    "nodejs",
+    "video-overlay"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "httpserver": "^0.12.3"
+  }
+}
